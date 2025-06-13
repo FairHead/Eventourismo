@@ -1,17 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "o68nnMNDOG2KlUN/nN0FUvRrgKA9+Cs0UzB2hGd/PfR9L/ZS3SFrZnSYEBwSJNqBlejvdWi0mzA9rnn/HkWJbA==",
+  "dgSpecHash": "pX4RCVxf5bZ4OcJ94gKXeccCdhfQX7/r3I7vjB+W6Vf20NYjLi+Og6COwV5dX+G9iGGCGI5SkUR/Lxhy3B5TTA==",
   "success": true,
   "projectFilePath": "/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/Eventourismo.Application.csproj",
   "expectedPackageFiles": [
-    "/home/runner/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/runner/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
     "/home/runner/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
     "/home/runner/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "/home/runner/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "/home/runner/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "/home/runner/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/home/runner/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

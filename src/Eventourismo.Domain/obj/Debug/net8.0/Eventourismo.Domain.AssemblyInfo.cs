@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eventourismo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1050d0d885661f5de9843dcca726d5a6cfd780c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa8891e3ae8e318e35358dc5e027a696f41d267")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eventourismo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eventourismo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
