@@ -1,0 +1,12 @@
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/Eventourismo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/Eventourismo.Domain.AssemblyInfoInputs.cache
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/Eventourismo.Domain.AssemblyInfo.cs
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/Eventourismo.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/Eventourismo.Domain.sourcelink.json
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/bin/Debug/net8.0/Eventourismo.Domain.deps.json
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/bin/Debug/net8.0/Eventourismo.Domain.dll
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/bin/Debug/net8.0/Eventourismo.Domain.pdb
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/Eventourismo.Domain.dll
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/refint/Eventourismo.Domain.dll
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/Eventourismo.Domain.pdb
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Domain/obj/Debug/net8.0/ref/Eventourismo.Domain.dll
