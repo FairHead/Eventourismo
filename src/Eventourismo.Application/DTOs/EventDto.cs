@@ -26,7 +26,7 @@ public class EventDto
     public int LikesCount { get; set; }
     public int CommentsCount { get; set; }
     public int FavoritesCount { get; set; }
-    public bool HasEnded { get; set; }
-    public bool HasStarted { get; set; }
-    public bool IsUpcoming { get; set; }
+    public bool HasEnded => EndTime.HasValue && DateTime.UtcNow > EndTime.Value;
+    public bool HasStarted => DateTime.UtcNow > StartTime;
+    public bool IsUpcoming => DateTime.UtcNow < StartTime;
 }
