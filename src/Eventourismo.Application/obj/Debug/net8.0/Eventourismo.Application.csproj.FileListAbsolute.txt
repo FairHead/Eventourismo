@@ -1,0 +1,16 @@
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/bin/Debug/net8.0/Eventourismo.Application.deps.json
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/bin/Debug/net8.0/Eventourismo.Application.dll
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/bin/Debug/net8.0/Eventourismo.Application.pdb
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/bin/Debug/net8.0/Eventourismo.Domain.dll
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/bin/Debug/net8.0/Eventourismo.Domain.pdb
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.csproj.AssemblyReference.cache
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.AssemblyInfoInputs.cache
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.AssemblyInfo.cs
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.csproj.CoreCompileInputs.cache
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.sourcelink.json
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.csproj.CopyComplete
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.dll
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/refint/Eventourismo.Application.dll
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/Eventourismo.Application.pdb
+/home/runner/work/Eventourismo/Eventourismo/src/Eventourismo.Application/obj/Debug/net8.0/ref/Eventourismo.Application.dll
